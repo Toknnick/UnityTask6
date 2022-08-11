@@ -336,13 +336,14 @@ MonoBehaviour:
   - {fileID: 483823638}
   - {fileID: 507362543}
   - {fileID: 2051558993}
-  _enemies:
+  _prefabs:
   - {fileID: 1073143332}
   - {fileID: 926102388}
   - {fileID: 1116030414}
   - {fileID: 1658702375}
   - {fileID: 250479372}
   - {fileID: 43671536}
+  _timeForWait: 2
 --- !u!1 &463424996 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3299122836525659130, guid: 08eb41c4fdbab404295adcf3e282f05f, type: 3}
