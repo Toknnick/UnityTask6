@@ -2,7 +2,7 @@ using System.Collections;
 using System.Linq;
 using UnityEngine;
 
-public class SpawnersOfEnemies : MonoBehaviour
+public class MakerOfEnemies : MonoBehaviour
 {
     [SerializeField] private GameObject[] _spawners;
     [SerializeField] private GameObject[] _prefabs;
